@@ -1,1 +1,1 @@
-Contains various fundamental machine learning models 
+Contains various fundamental machine learning models with explanation
